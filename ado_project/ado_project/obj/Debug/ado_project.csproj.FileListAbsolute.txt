@@ -1,0 +1,8 @@
+D:\Programming\Dotnet\ado_project\ado_project\bin\Debug\ado_project.exe.config
+D:\Programming\Dotnet\ado_project\ado_project\bin\Debug\ado_project.exe
+D:\Programming\Dotnet\ado_project\ado_project\bin\Debug\ado_project.pdb
+D:\Programming\Dotnet\ado_project\ado_project\obj\Debug\ado_project.csproj.AssemblyReference.cache
+D:\Programming\Dotnet\ado_project\ado_project\obj\Debug\ado_project.csproj.SuggestedBindingRedirects.cache
+D:\Programming\Dotnet\ado_project\ado_project\obj\Debug\ado_project.csproj.CoreCompileInputs.cache
+D:\Programming\Dotnet\ado_project\ado_project\obj\Debug\ado_project.exe
+D:\Programming\Dotnet\ado_project\ado_project\obj\Debug\ado_project.pdb
